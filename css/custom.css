@@ -306,8 +306,9 @@ div#category {
 }
 
 #error-wrap .error-content .error-info .error_title {
-    margin-top: -4rem;
+    margin-top: -7rem;
     font-size: 9em;
+    color: #ff72b6;
 }
 
 #error-wrap .error-content .error-info .error_subtitle {
