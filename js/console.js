@@ -42,7 +42,7 @@ function createtime1() {
 createtime1();
 
 function createtime2() {
-    var ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为「大聪明」`, `Photo captured: `, ` 🤪 `];
+    var ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为「陌生访客」`, `Photo captured: `, ` ？ `];
 
     setTimeout(
         console.log.bind(
@@ -55,12 +55,12 @@ function createtime2() {
         )
     );
 
-    setTimeout(console.log.bind(console, "%c WELCOME %c 欢迎光临，大聪明", "color:white; background-color:#23c682", ""));
+    setTimeout(console.log.bind(console, "%c WELCOME %c 欢迎来到本站，陌生人", "color:white; background-color:#23c682", ""));
 
     setTimeout(
         console.warn.bind(
             console,
-            "%c ⚡ Powered by Elliay %c 你正在访问Elliay 九依の画室",
+            "%c ⚡ Powered by Elliay %c 你正在访问Elliay: 九依の画室",
             "color:white; background-color:#f0ad4e",
             ""
         )
@@ -68,7 +68,7 @@ function createtime2() {
 
     setTimeout(console.log.bind(console, "%c W23-12 %c 系统监测到你已打开控制台", "color:white; background-color:#4f90d9", ""));
     setTimeout(
-        console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中", "color:white; background-color:#d9534f", "")
+        console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中...", "color:white; background-color:#d9534f", "")
     );
 }
 createtime2();
