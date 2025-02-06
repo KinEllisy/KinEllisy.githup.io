@@ -1,11 +1,11 @@
-if (typeof jQuery === 'undefined') {
-    console.error('jQuery is not loaded. Please check your script references.');
-} else {
-    $(document).ready(function () {
-        // 你的代码逻辑
-        showWelcome();
-    });
-}
+// if (typeof jQuery === 'undefined') {
+//     console.error('jQuery is not loaded. Please check your script references.');
+// } else {
+//     $(document).ready(function () {
+//         // 你的代码逻辑
+//         showWelcome();
+//     });
+// }
 
 
 
