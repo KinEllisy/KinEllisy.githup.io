@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jiuyi.ellisy.top/card/index.html</loc>
+    <loc>https://github.ellisy.cn/about/index.html</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/manifest.json</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/2025/02/11/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/2025/02/11/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC3%E6%9C%9F/</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/2025/02/11/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC2%E6%9C%9F/</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC1%E6%9C%9F/</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.ellisy.cn/card/index.html</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -11,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/link1/index.html</loc>
+    <loc>https://github.ellisy.cn/link1/index.html</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -20,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/tags/index.html</loc>
+    <loc>https://github.ellisy.cn/tags/index.html</loc>
     
     <lastmod>2025-02-06</lastmod>
     
@@ -29,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/artitalk/index.html</loc>
+    <loc>https://github.ellisy.cn/artitalk/index.html</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -38,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/categories/index.html</loc>
+    <loc>https://github.ellisy.cn/categories/index.html</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -47,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/comments/index.html</loc>
+    <loc>https://github.ellisy.cn/comments/index.html</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -56,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/fcircle/index.html</loc>
+    <loc>https://github.ellisy.cn/fcircle/index.html</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -65,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/gallery/index.html</loc>
+    <loc>https://github.ellisy.cn/gallery/index.html</loc>
     
     <lastmod>2025-02-04</lastmod>
     
@@ -74,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/about/index.html</loc>
-    
-    <lastmod>2025-02-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyi.ellisy.top/2025/01/31/2025-1-31-%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0(%E7%AC%AC%E4%B8%80%E6%9C%9F)/</loc>
+    <loc>https://github.ellisy.cn/bangumis/index.html</loc>
     
     <lastmod>2025-02-01</lastmod>
     
@@ -92,25 +137,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/manifest.json</loc>
-    
-    <lastmod>2025-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyi.ellisy.top/bangumis/index.html</loc>
-    
-    <lastmod>2025-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyi.ellisy.top/music/index.html</loc>
+    <loc>https://github.ellisy.cn/music/index.html</loc>
     
     <lastmod>2025-01-31</lastmod>
     
@@ -119,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyi.ellisy.top/movies/index.html</loc>
+    <loc>https://github.ellisy.cn/movies/index.html</loc>
     
     <lastmod>2025-01-31</lastmod>
     
@@ -129,8 +156,8 @@
   
 
   <url>
-    <loc>https://jiuyi.ellisy.top/</loc>
-    <lastmod>2025-02-10</lastmod>
+    <loc>https://github.ellisy.cn/</loc>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
