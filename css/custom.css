@@ -363,7 +363,7 @@ div#category {
 }
 
 #body-wrap.error .aside-list .aside-list-item .content .title {
-    -webkit-line-clamp: 2; 
+    -webkit-line-clamp: 2;
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -404,7 +404,9 @@ div#category {
 .author-info__name,
 .author-info__description {
     transition: text-shadow 1s linear !important;
-} */
+}
+
+*/
 
 /* 日间模式不生效 */
 [data-theme="light"] #site-name,
@@ -554,6 +556,7 @@ div#category {
         text-shadow: #5636ed 0 0 5px;
     }
 }
+
 /* ----------------------------------------------------------------------------------------- */
 /* 侧边栏个人信息卡片动态渐变色 */
 /* #aside-content>.card-widget.card-info {
@@ -633,6 +636,7 @@ div#category {
     background-attachment: inherit;
     background-size: 100%;
 }
+
 /*————————————————————————————————————————————————————————————————————————————————————————————————————*/
 /* 欢迎信息 */
 #welcome-info {
@@ -640,15 +644,18 @@ div#category {
     border-radius: 18px;
     padding: 8px;
 }
+
 [data-theme="dark"] #welcome-info {
     background: #212121;
 }
+
 /*=============================================================================*/
 /* 信息卡片彩带 */
 .author_top:hover {
     background: url(https://tuchuang.voooe.cn/images/2023/01/02/snow.gif);
     background-size: cover;
 }
+
 /*-------------------------------------------------------------------------------*/
 /* 头像呼吸灯 */
 [data-theme="light"] .avatar-img {
@@ -686,6 +693,7 @@ div#category {
         box-shadow: 0px 0px 1px 1px #39c5bb;
     }
 }
+
 /*--------------------------------------------------------------------------------------*/
 /*博客宽屏适配：*/
 /* 全局宽度 */
@@ -706,6 +714,7 @@ div#category {
         padding: 0 5px 0 5px;
     }
 }
+
 /*--------------------------------------------------------------------------------------------  */
 /* 除了首页以外其他页面隐藏卡片，并采用宽屏显示
 #archive,
@@ -720,7 +729,7 @@ div#category {
 } */
 /*------------------------------------------------------------------------------------------------  */
 /* 标题增强 */
-#site-name::before {
+/* #site-name::before {
     opacity: 0;
     background-color: var(--theme-color) !important;
     border-radius: 8px;
@@ -744,12 +753,12 @@ div#category {
     text-align: center;
     color: rgb(250, 184, 255);
     line-height: 34px;
-    /*如果有溢出或者垂直不居中的现象微调一下这个参数*/
+    如果有溢出或者垂直不居中的现象微调一下这个参数
     font-size: 18px;
-    /*根据个人喜好*/
-}
+    根据个人喜好
+} */
 
-#site-name:hover::before {
+/* #site-name:hover::before {
     opacity: 1;
     scale: 1.03;
 }
@@ -757,8 +766,9 @@ div#category {
 #site-name {
     position: relative;
     font-size: 24px;
-    /*一定要把字体调大点，否则效果惨不忍睹！*/
-}
+    一定要把字体调大点，否则效果惨不忍睹！
+} */
+
 /*------------------------------------------------------------------------------------------------  */
 .nav-fixed #nav {
     transform: translateY(58px) !important;
@@ -775,6 +785,7 @@ div#category {
     -ms-transition: none !important;
     -o-transition: none !important;
 }
+
 /*-------------------------------------------------------------------------------------------------  */
 /* 导航栏显示标题 */
 #page-name::before {
@@ -783,7 +794,7 @@ div#category {
     width: 100%;
     height: 100%;
     border-radius: 8px;
-    color: rgb(255, 176, 251) !important;
+    color: rgb(255, 204, 252) !important;
     top: 0;
     left: 0;
     content: "回到顶部";
@@ -837,6 +848,7 @@ center#name-container {
         display: none;
     }
 }
+
 /*-------------------------------------------------------------------------------------------------  */
 
 /* 一级菜单居中 */
@@ -864,8 +876,8 @@ center#name-container {
     width: 16px;
     height: 16px;
     /* 这里改变跟随的底色 */
-    background: rgb(255, 225, 227);
-    border-radius: 8px;
+    background: rgb(255, 177, 233);
+    border-radius: 10px;
     opacity: 0.25;
     z-index: 10086;
     pointer-events: none;
@@ -894,6 +906,7 @@ center#name-container {
     -ms-transform: scale(0.5);
     -o-transform: scale(0.5);
 }
+
 /*---------------------------------------------------------------------------------------------------------------------------*/
 :root {
     --trans-light: rgba(255, 255, 255, 0.88);
@@ -930,7 +943,7 @@ div#archive {
 
 /* 导航栏 */
 #page-header.nav-fixed #nav {
-    background: rgba(255, 255, 255, 0.75);
+    background: rgb(255, 207, 232);
     backdrop-filter: var(--backdrop-filter);
 }
 
@@ -976,18 +989,19 @@ div#archive {
     background: rgba(25, 25, 25, 0.9) !important;
     color: #ffffff;
 }
+
 /*---------------------------------------------------------------------------------------------------------------------------------------------------------*/
 /* 设置文字内容 :nth-child(1)的作用是选择第几个 */
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
-    content: '输入QQ号会自动获取昵称和头像🐧';
+    content: '输入QQ号会自动获取昵称和头像';
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
-    content: '收到回复将会发送到您的邮箱📧';
+    content: '收到回复将会发送到您的邮箱';
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(3):before {
-    content: '可以通过昵称访问您的网站🔗';
+    content: '可以通过昵称访问您的网站';
 }
 
 /* 当用户点击输入框时显示 */

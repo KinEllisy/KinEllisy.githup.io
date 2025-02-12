@@ -62,7 +62,7 @@
     // 根据时间决定显示内容
     let currentTimeHtml = "";
     if (Number(time[2]) < 22 && Number(time[2]) >= 7) {
-        currentTimeHtml = `<img class='boardsign' src='https://img.shields.io/badge/九依の画室-营业中-6adea8?style=social&logo=cakephp' title='距离月入10k也就还差一个大佬带我~'>
+        currentTimeHtml = `<img class='boardsign' src='https://img.shields.io/badge/九依の画室-营业中-6adea8?style=social&logo=cakephp' title='学习，永无止境~'>
             <div id='runtime'>${time[0]} YEAR ${time[1]} DAYS ${time[2]} : ${time[3]} : ${time[4]}</div>
             <br>
             <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${l} 分 ${b} 秒 
