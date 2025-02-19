@@ -6,7 +6,7 @@
   <link href="https://github.ellisy.cn/atom.xml" rel="self"/>
   
   <link href="https://github.ellisy.cn/"/>
-  <updated>2025-02-13T14:00:00.000Z</updated>
+  <updated>2025-02-19T07:52:08.819Z</updated>
   <id>https://github.ellisy.cn/</id>
   
   <author>
@@ -17,149 +17,182 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章测试1</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC1%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC1%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
+    <title>网站合集</title>
+    <link href="https://github.ellisy.cn/2025/02/19/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/"/>
+    <id>https://github.ellisy.cn/2025/02/19/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/</id>
+    <published>2025-02-19T07:50:45.195Z</published>
+    <updated>2025-02-19T07:52:08.819Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- <div class="demo"></div><script>    function tt(){        $('.demo').slider({    imgList: [        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/2a877ea5da1292c817cbc2a254c01c31.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/5005109d1aa2ffd28984c2b02b8cbfbe.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@latest/2020/04/13/163a2ade4361d1ed705ed523091af67e.png',            a: '跳转url地址',        }    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址    width: "100%", //图片的宽    height: 500, //图片的高    isAuto: false, //是否自动轮播    moveTime: 3000, //运动时间    direction: 'right', //轮播的方向    btnWidth: 30, //按钮的宽    btnHeight: 30, //按钮的高    spanWidth: 10, //span按钮的宽    spanHeight: 10, //span按钮的高    spanColor: '#fff', //span按钮的颜色    activeSpanColor: 'red', //选中的span颜色    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色    spanRadius: '50%', //span按钮的圆角程度    spanMargin: 3, //span之间的距离})    }    window.addEventListener('DOMContentLoaded',tt)</script> -->]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     
-    <summary type="html">测试文章</summary>
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="其他" scheme="https://github.ellisy.cn/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="网页" scheme="https://github.ellisy.cn/tags/%E7%BD%91%E9%A1%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML合集</title>
+    <link href="https://github.ellisy.cn/2025/02/19/1-HTML-%E5%89%8D%E7%AB%AF/"/>
+    <id>https://github.ellisy.cn/2025/02/19/1-HTML-%E5%89%8D%E7%AB%AF/</id>
+    <published>2025-02-19T05:00:00.000Z</published>
+    <updated>2025-02-19T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="这里是九依的前端学习笔记，欢迎访问"><a href="#这里是九依的前端学习笔记，欢迎访问" class="headerlink" title="这里是九依的前端学习笔记，欢迎访问!"></a><font color=red>这里是九依的前端学习笔记，欢迎访问!</font></h3><h5 id="本篇笔记是为整理本人的-HTML-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"><a href="#本篇笔记是为整理本人的-HTML-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！" class="headerlink" title="本篇笔记是为整理本人的 HTML 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"></a>本篇笔记是为整理本人的 HTML 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！</h5><h1 id="HTML5"><a href="#HTML5" class="headerlink" title="HTML5"></a>HTML5</h1><h4 id="菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61"><a href="#菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61" class="headerlink" title="[菜鸟教程](https://www.runoob.com/)** ; [在线编程工具]**(https://www.jyshare.com/front-end/61/)"></a><strong>[菜鸟教程]</strong>(<a href="https://www.runoob.com/)**">https://www.runoob.com/)**</a> ; [在线编程工具]**(<a href="https://www.jyshare.com/front-end/61/">https://www.jyshare.com/front-end/61/</a>)</h4><h5 id="HTML头文件"><a href="#HTML头文件" class="headerlink" title="HTML头文件"></a>HTML头文件</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt; #声明文档版本</span><br><span class="line">&lt;html&gt; #文档内容</span><br><span class="line">&lt;head&gt; #头文件</span><br><span class="line">&lt;meta charset=&quot;utf-8&quot;&gt; #编码方式</span><br><span class="line">&lt;title&gt;九依&lt;/title&gt; #网址名字</span><br><span class="line">&lt;/head&gt; #文档内容结束</span><br><span class="line">&lt;body&gt; #网站主体内容</span><br><span class="line">&lt;h1&gt;我的第一个标题&lt;/h1&gt; #标题</span><br><span class="line">&lt;p&gt;我的第一个段落。&lt;/p&gt; #段落</span><br><span class="line">&lt;/body&gt; #网站主体内容结束</span><br><span class="line">&lt;/html&gt; #文档内容结束</span><br></pre></td></tr></table></figure><h5 id="笔记一览图"><a href="#笔记一览图" class="headerlink" title="笔记一览图"></a>笔记一览图</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html lang=&quot;en&quot;&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">    &lt;meta charset=&quot;UTF-8&quot;&gt;</span><br><span class="line">    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;</span><br><span class="line">    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</span><br><span class="line">    &lt;title&gt;Document&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;!------------------------------------------------------------------------------------------------- --&gt;</span><br><span class="line">         Lorem:随机生成一句英文</span><br><span class="line">&lt;!---------------------------------------------------------------------------------------------- --&gt;</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    p&#123;快捷键</span><br><span class="line">         Ctrl+/：代码快速注释</span><br><span class="line">         Ait+w：代码快速添加标签</span><br><span class="line">         Ait+shift+下箭头键：快速复制</span><br><span class="line">    &#125; </span><br><span class="line"></span><br><span class="line">   </span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;!-- ----------------------------------------------------------------------------------------------- --&gt;</span><br><span class="line"></span><br><span class="line">&lt;body&gt;</span><br><span class="line">    &lt;p&gt;12-13-特殊标签：</span><br><span class="line">         &amp;lt:左尖角号  &amp;gt:右尖角号  &amp;nbsp/&amp;emsp:空格  版权:&amp;copy  商标:&amp;trade/&amp;reg  &lt;br&gt;:换行  &lt;strong&gt;加粗&lt;/strong&gt;</span><br><span class="line">         span标签：文字修饰 &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    &lt;p&gt;14-16-列表：</span><br><span class="line">    &lt;ul type=&quot;1AaAiI&quot; start=&quot;10&quot;&gt;无序列表(li)&lt;/ul&gt;&lt;ol&gt;有序列表(li)&lt;/ol&gt;&lt;dl&gt;自定义列表(dt/dd)&lt;dl&gt; 快捷创建:dl&gt;dt*1()+dd*1()&lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    &lt;p&gt;17-18-图片：</span><br><span class="line">         &lt;img src=&quot;./文件夹/图片.jpg&quot;&gt;：加载图片(./下一级；../上一级)</span><br><span class="line">         &lt;img src=&quot;./文件夹/图片.jpg&quot; alt=&quot;异常提醒&quot; title=&quot;鼠标悬浮&quot; &gt;</span><br><span class="line">         &lt;img src=&quot;./文件夹/图片.jpg&quot; alt=&quot;异常提醒&quot; title=&quot;鼠标悬浮&quot; width=&quot;200px宽&quot; height=&quot;200px高&quot;&gt;</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    &lt;p&gt;20-超链接：</span><br><span class="line">        &lt;a href=&quot;超链接路径&quot; title=&quot;鼠标悬浮&quot; target=&quot;打开方式(_self默认/_blank新窗口)&quot;&gt;标题&lt;/a&gt;：文字超链接跳转</span><br><span class="line">        &lt;a&gt; &lt;img src=&quot;./文件夹/图片.jpg&quot; alt=&quot;异常提醒&quot; title=&quot;鼠标悬浮&quot; width=&quot;200px宽&quot; height=&quot;200px高&quot;&gt;:图片链接跳转&lt;/a&gt;</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    &lt;p&gt;21表格：                 </span><br><span class="line">        &lt;table&gt;               </span><br><span class="line">              &lt;tr&gt;:行          </span><br><span class="line">                  &lt;td&gt;内容&lt;/td&gt;：单元格 快捷创建:table&gt;tr*1()+td*1() </span><br><span class="line">              &lt;/tr&gt;            </span><br><span class="line">        &lt;/table&gt; </span><br><span class="line"></span><br><span class="line">        表格样式属性设置：            </span><br><span class="line">        &lt;table border=&quot;1px&quot; width=&quot;500px/50%宽&quot; height=&quot;500px/%高&quot;  &gt; ：(宽基于body父元素，高度由body父元素内容撑高)&lt;/table&gt;</span><br><span class="line">        &lt;table align=&quot;center对齐&quot; bordercolor=&quot;red边框颜色&quot; bgcolor=&quot;yellow背景颜色&quot; cellspacing=&quot;0格与格间距&quot; cellpadding=&quot;10格与内容间距&quot; &gt;内容&lt;/table&gt;</span><br><span class="line"></span><br><span class="line">        单元格样式属性设置：水平对齐：左left/右right/中center  垂直对齐：top上/middle下/bottom中</span><br><span class="line">        &lt;table border=&quot;1&quot; width=&quot;300宽&quot; height=&quot;300高&quot; bgcolor=&quot;yellow背景颜色&quot;&gt;  </span><br><span class="line">            &lt;tr bgcolor=&quot;blue背景颜色&quot; height=&quot;100高&quot; align=&quot;center对齐方式&quot; valing=&quot;top&quot;&gt; </span><br><span class="line">                &lt;td blue背景颜色&quot; height=&quot;100高&quot;align=&quot;center对齐方式&quot; valing=&quot;top&quot;&gt;设置一个单元格宽/高,影响这一整列/行的宽/高&lt;/td&gt;</span><br><span class="line">            &lt;/tr&gt;</span><br><span class="line">        &lt;/table&gt;</span><br><span class="line"></span><br><span class="line">        单元格合并列：</span><br><span class="line">        &lt;table&gt;</span><br><span class="line">            &lt;tr&gt;</span><br><span class="line">                &lt;td colspan=&quot;1&quot; &gt;：合并仅限于&lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">                &lt;!-- &lt;td&gt;合并列多余列，请注释掉&lt;/td&gt; --&gt;</span><br><span class="line">                &lt;/td&gt;</span><br><span class="line">            &lt;/tr&gt;</span><br><span class="line">        &lt;/table&gt;</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    &lt;p&gt;表单：get是从服务器获取数据,post是向服务器发送数据   &lt;input&gt;标签属性必须有name,否则服务器不接受数据</span><br><span class="line">        &lt;form action=&quot;向何处发送表单数据&quot; method=&quot;post&quot; &gt;</span><br><span class="line">           输入用户信息： &lt;input type=&quot;text&quot; placeholder=&quot;请输入你的用户名,注意大小&quot; name=&quot;自定义文本&quot;&gt;</span><br><span class="line">           输入密码：&lt;input type=&quot;text&quot; placeholder=&quot;请输入数字&quot; name=&quot;自定义文本&quot;&gt;</span><br><span class="line">           登陆按钮1：&lt;input type=&quot;submit按钮&quot; value=&quot;登录&quot; name=&quot;自定义文本&quot;&gt;</span><br><span class="line">           登录按钮2：&lt;button type=&quot;submit&quot;&gt;登录&lt;/button&gt;</span><br><span class="line">           重置信息：&lt;button type=&quot;reset&quot;&gt;重新输入&lt;/button&gt;</span><br><span class="line">           自定义按钮：&lt;input type=&quot;button&quot; name=&quot;自定义文本&quot;&gt;</span><br><span class="line">        &lt;/form&gt;</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line">    &lt;/p&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;!---------------------------------------------------------------------------------------------------&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">本篇为萌新准备的前端HTML学习笔记</summary>
+    
+    
+    
+    <category term="前端" scheme="https://github.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="HTML" scheme="https://github.ellisy.cn/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>九依图库</title>
+    <link href="https://github.ellisy.cn/2025/02/12/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/"/>
+    <id>https://github.ellisy.cn/2025/02/12/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/</id>
+    <published>2025-02-12T06:27:39.143Z</published>
+    <updated>2025-02-19T07:53:56.830Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="绘画" scheme="https://github.ellisy.cn/categories/%E7%BB%98%E7%94%BB/"/>
+    
+    
+    <category term="图库" scheme="https://github.ellisy.cn/tags/%E5%9B%BE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java笔记</title>
+    <link href="https://github.ellisy.cn/2025/02/12/5-java-%E5%90%8E%E7%AB%AF/"/>
+    <id>https://github.ellisy.cn/2025/02/12/5-java-%E5%90%8E%E7%AB%AF/</id>
+    <published>2025-02-12T06:26:51.062Z</published>
+    <updated>2025-02-19T07:54:21.543Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
     
     
     
     <category term="后端" scheme="https://github.ellisy.cn/categories/%E5%90%8E%E7%AB%AF/"/>
     
     
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="java" scheme="https://github.ellisy.cn/tags/java/"/>
     
   </entry>
   
   <entry>
-    <title>文章测试2</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC2%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC2%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
+    <title>PS修图合集教程</title>
+    <link href="https://github.ellisy.cn/2025/02/12/4-ps-%E5%B9%B3%E9%9D%A2/"/>
+    <id>https://github.ellisy.cn/2025/02/12/4-ps-%E5%B9%B3%E9%9D%A2/</id>
+    <published>2025-02-12T06:26:11.906Z</published>
+    <updated>2025-02-19T07:43:41.026Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     
-    <summary type="html">测试文章</summary>
-    
-    
-    
-    <category term="前端" scheme="https://github.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章测试3</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC3%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC3%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-    <summary type="html">测试文章</summary>
+    <summary type="html">本篇为萌新准备的PS修图教程</summary>
     
     
     
     <category term="平面" scheme="https://github.ellisy.cn/categories/%E5%B9%B3%E9%9D%A2/"/>
     
     
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="ps" scheme="https://github.ellisy.cn/tags/ps/"/>
     
   </entry>
   
   <entry>
-    <title>文章测试4</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC4%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC4%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
+    <title>JS合集</title>
+    <link href="https://github.ellisy.cn/2025/02/11/3-js-%E5%89%8D%E7%AB%AF/"/>
+    <id>https://github.ellisy.cn/2025/02/11/3-js-%E5%89%8D%E7%AB%AF/</id>
+    <published>2025-02-11T04:45:59.012Z</published>
+    <updated>2025-02-19T07:01:57.943Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！"><a href="#这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！" class="headerlink" title="这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！"></a><font color=red>这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！</font></h1><h5 id="本篇笔记是为整理本人的-CSS-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"><a href="#本篇笔记是为整理本人的-CSS-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！" class="headerlink" title="本篇笔记是为整理本人的 CSS 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"></a>本篇笔记是为整理本人的 CSS 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！</h5><h1 id="HTML5-CSS"><a href="#HTML5-CSS" class="headerlink" title="HTML5-CSS"></a>HTML5-CSS</h1><h5 id="菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61"><a href="#菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61" class="headerlink" title="[菜鸟教程](https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/)"></a><strong>[菜鸟教程]</strong>(<a href="https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/">https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/</a>)</h5><h5 id="头文件"><a href="#头文件" class="headerlink" title="头文件"></a>头文件</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
     
     
-    <summary type="html">测试文章</summary>
+    <summary type="html">本篇为萌新准备的前端CSS学习笔记</summary>
     
     
     
     <category term="前端" scheme="https://github.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="js" scheme="https://github.ellisy.cn/tags/js/"/>
     
   </entry>
   
   <entry>
-    <title>文章测试5</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC5%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC5%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
+    <title>CSS合集</title>
+    <link href="https://github.ellisy.cn/2025/02/11/2-css-%E5%89%8D%E7%AB%AF/"/>
+    <id>https://github.ellisy.cn/2025/02/11/2-css-%E5%89%8D%E7%AB%AF/</id>
+    <published>2025-02-11T04:43:53.740Z</published>
+    <updated>2025-02-19T06:59:49.833Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-    <summary type="html">测试文章</summary>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！"><a href="#这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！" class="headerlink" title="这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！"></a><font color=red>这里是九依的前端学习笔记，欢迎访问，技术掌握尚不熟练，还请多多担待！</font></h1><h5 id="本篇笔记是为整理本人的-CSS-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"><a href="#本篇笔记是为整理本人的-CSS-学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！" class="headerlink" title="本篇笔记是为整理本人的 CSS 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！"></a>本篇笔记是为整理本人的 CSS 学习进度以及后续复习所准备的，在编写上可能还不熟练，如果有看不懂的，可以留言一起讨论！</h5><h1 id="HTML5-CSS"><a href="#HTML5-CSS" class="headerlink" title="HTML5-CSS"></a>HTML5-CSS</h1><h5 id="菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61"><a href="#菜鸟教程-https-www-runoob-com-在线编程工具-https-www-jyshare-com-front-end-61" class="headerlink" title="[菜鸟教程](https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/)"></a><strong>[菜鸟教程]</strong>(<a href="https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/">https://www.runoob.com/),**[在线编程工具]**(https://www.jyshare.com/front-end/61/</a>)</h5><h5 id="头文件"><a href="#头文件" class="headerlink" title="头文件"></a>头文件</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html lang=&quot;en&quot;&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">    &lt;meta charset=&quot;UTF-8&quot;&gt;</span><br><span class="line">    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;</span><br><span class="line">    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</span><br><span class="line">    &lt;title&gt;Document&lt;/title&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    CSS外部样式导入：</span><br><span class="line">    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/index,css文件路径&quot;/&gt;</span><br><span class="line"></span><br><span class="line">&lt;/head&gt;</span><br></pre></td></tr></table></figure><h5 id="css一览图"><a href="#css一览图" class="headerlink" title="css一览图"></a>css一览图</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br></pre></td><td class="code"><pre><span class="line">&lt;!------------------------------------------------------------------------------------------------&gt;</span><br><span class="line">&lt;style&gt; </span><br><span class="line">CSS内部样式导入：</span><br><span class="line">@import url(css/index.css文件路径)</span><br><span class="line"></span><br><span class="line">    p&#123;文本属性：.top</span><br><span class="line">    font-size:字体大小(单位px)</span><br><span class="line">    font-family:字体</span><br><span class="line">    color:颜色 color:red/rgb(0,0,100)/#0000ff</span><br><span class="line">    font-weight:加粗 font-weight:100 (100:细体 400:正常  700:加粗  900:更粗体)</span><br><span class="line">    font-style:倾斜(italic斜体字，oblique倾斜的文字，nomal常规)</span><br><span class="line">    text-align:文本水平对齐(left水平靠左，right水平靠右，center水平居中，justify水平两端对齐)</span><br><span class="line"></span><br><span class="line">    line-height:100px：行高(实现单行文本垂直居中)</span><br><span class="line">    text-indent:首行缩进(可以取负值,仅对第一行有效)(单位:px或者1em)</span><br><span class="line">    letter-spacing:字间距(控制文字与文字之间的间距)</span><br><span class="line">    word-spacing:</span><br><span class="line">    text-decoration:文本修饰(none没有,underline下划线,overline上划线,line-through删除线)</span><br><span class="line">    font:文本简写()</span><br><span class="line"></span><br><span class="line">    text-transform: capitalize; 对英文句子所有单词首字母大写</span><br><span class="line">    text-transform: lowercase; 对英文句子所有单词首字母小写</span><br><span class="line">    text-transform:uppercase;对英文句子所有单词字母大写ita</span><br><span class="line">    text-transform:none; 不添加任何效果&#125;</span><br><span class="line">    </span><br><span class="line">    p&#123;</span><br><span class="line">    font:italic bold 20px/1em 微软雅黑;字体简写法:为文案添加字体效果&#125;</span><br><span class="line"></span><br><span class="line">    p&#123;列表属性：</span><br><span class="line"></span><br><span class="line">    list-style-type:列表列标签样式(disc:实心圆 circle:空心圆 square:实心正方体 none:无)</span><br><span class="line">    list-style-image:url(img.jpg图片路径) 将图片设置为列表符合样式 </span><br><span class="line"></span><br><span class="line">    border:1px solid red；给添加边框</span><br><span class="line">    border:1px solid transparent;边框透明</span><br><span class="line"></span><br><span class="line">    border:10px double  red; (给容器添加边框并规定边框 大小,颜色)(solid 实线,double 虚线)</span><br><span class="line">    border-top:10px double  red; (给容器添加边框并规定边框 方向,大小,颜色)</span><br><span class="line"></span><br><span class="line">    list-style-position:设置列表项标记的放置位置(outside 外面,inside 里面)</span><br><span class="line">    list-style:简写(none去除列表符号)</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    p&#123;背景属性：</span><br><span class="line">    background+</span><br><span class="line"></span><br><span class="line">        color:背景颜色  (color:rgba(0,0,0,1) :透明颜色(取值范围:0-1,0为不透明,1为透明))</span><br><span class="line">        image:url(img.jpg图片路径) ：背景图片</span><br><span class="line">        repeat:repeat 背景图片的平铺(默认平铺,repeat-x 为x轴平铺, repeat-y 为y轴平铺 no-repeat 不平铺)</span><br><span class="line">        position:背景图片的定位(left 左,center 中,right 右,/top 上,center 中,bottom 下;)</span><br><span class="line">        attachment:背景图片的固定(scroll 滚动/fixed 固定)</span><br><span class="line">        margin:0 auto;  使盒子居中</span><br><span class="line"></span><br><span class="line">        size:400px 400px:使图片显示</span><br><span class="line">        cover:(背景图片放大,完全覆盖背景区域,可能无法显示在背景定位区域中)(等比放大)</span><br><span class="line">        contain:(把图像放大至最大尺寸,使其高度宽度完全适应内容区域,可能铺不满盒子)</span><br><span class="line"></span><br><span class="line">        padding:30px 30px 30px 30px(内边距 上，右，下，左)</span><br><span class="line">        padding:right:10pxc (指定方位内边距 top 上,right 右,bottom 下,left 左 )</span><br><span class="line">        margin:30px 30px 30px 30px (外边距 上，右，下，左)(指定方位内边距 top 上,right 右,bottom 下,left 左 )(可以出现负值)</span><br><span class="line">        margin:0 auto; (盒子居中)</span><br><span class="line">        垂直方向,边距取最大值</span><br><span class="line">        水品方向,边距会合并处理</span><br><span class="line"></span><br><span class="line">          1. 子margin-top===&gt;父的padding-top, 注意高度计算.</span><br><span class="line">          2. 给父盒子设置边框</span><br><span class="line">          3. 加浮动</span><br><span class="line">          4. overflow:hidden. BFC,</span><br><span class="line">        &#125;</span><br><span class="line">    p&#123;背景复合属性：</span><br><span class="line">     复合写法:</span><br><span class="line">           1. 用空格隔开</span><br><span class="line">           2. 顺序可以换</span><br><span class="line">           3. 可以只取一个值， 放在后面能覆盖前面的值 */</span><br><span class="line">        backgourd-size属性只能单独用&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    p&#123;浮动属性:float 浮动的作用1: 定义网页中其它文本如何环绕该元素显示/ 浮动的作用2: 就是让竖着的东西横着来</span><br><span class="line">        1:float:left; 元素靠左边浮动</span><br><span class="line">        2:float:right; 元素靠右边浮动</span><br><span class="line">        3:float:none; 元素不浮动</span><br><span class="line">        </span><br><span class="line">        Clear:none;允许有浮动对象</span><br><span class="line">        Clear:right;不允许右边有浮动对象</span><br><span class="line">        Clear:left;不允许左边有浮动对象</span><br><span class="line">        Clear:both;不允许有浮动对象</span><br><span class="line">        清除浮动只是改变元素的排列方式，该元素还是漂浮着，不占据文档位置。</span><br><span class="line"></span><br><span class="line">        &lt;div&gt; container:容器 &lt;/div&gt;&#125;</span><br><span class="line">        </span><br><span class="line">    p&#123;溢出属性:&quot;overflow&quot;;</span><br><span class="line">        overflow:  visible/hidden (隐藏)/scroll/auto(自动)/inherit;</span><br><span class="line">        overflow:  visible:默认值，溢出内容会显示在元素之外;</span><br><span class="line">        overflow:  hidden:溢出内容隐藏;</span><br><span class="line">        overflow:  scroll:滚动，溢出内容以滚动方式显示;</span><br><span class="line">        overflow:  auto:如果有溢出会添加滚动条，没有溢出正常显示;</span><br><span class="line">        overflow:  inherit:规定应该遵从父元素继承overflow属性的值;</span><br><span class="line"></span><br><span class="line">        overflow-x:  auto/hidden(溢出,隐藏,与y相反) X轴溢出;</span><br><span class="line">        overflow-y:  auto/hidden(溢出,隐藏,与x相反) Y轴溢出;</span><br><span class="line"></span><br><span class="line">        white-space: nowrap;文本不会自动换行</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;!------------------------------------------------------------------------------------------------&gt;</span><br><span class="line">&lt;!------------------------------------------------------------------------------------------------&gt;</span><br><span class="line"></span><br><span class="line">&lt;body&gt;</span><br><span class="line">    &lt;p&gt;选择器：</span><br><span class="line">        class选择器/类选择器(允许class内容重复出现)  权重:10</span><br><span class="line">        &lt;div class=&quot;top自定义&quot;&gt;   </span><br><span class="line">        &lt;style&gt;.top自定义&#123;width:200px;&#125;  &lt;/style&gt; &lt;/div&gt;</span><br><span class="line"></span><br><span class="line">        id选择器(不允许id内容重复出现,ID具有唯一性)   权重:100</span><br><span class="line">        &lt;div id=&quot;top1自定义&quot;&gt;   </span><br><span class="line">        &lt;style&gt;.top1自定义&#123;width:200px;&#125;  &lt;/style&gt; &lt;/div&gt;</span><br><span class="line"></span><br><span class="line">        群组选择器：同时选择多个自定义产生指定一种css效果(top为自定义内容) &lt;style&gt;   </span><br><span class="line">        top,top1,top2&#123;width:200px;&#125;    &lt;/style&gt;</span><br><span class="line">    </span><br><span class="line">        后代选择器: 仅对在div中的top产生Css效果：权重:选择符的权重之和</span><br><span class="line">        &lt;style&gt;div top&#123;width:200px;&#125;  &lt;/style&gt;</span><br><span class="line"></span><br><span class="line">        &lt;style&gt;!important：权重:10000  &lt;/style&gt;     &lt;/p&gt;</span><br><span class="line">    &lt;p&gt;</span><br><span class="line">    伪类选择器：下方顺序不可打乱  &lt;style&gt;</span><br><span class="line">    超链接  访问前  颜色：a:link&#123;color:yellow&#125;</span><br><span class="line">    超链接  访问后  颜色：a:visited&#123;color:red&#125;</span><br><span class="line">    超链鼠  标悬浮  颜色：a:hover&#123;color:orange&#125;</span><br><span class="line">    超链点  击激活  颜色：a:active&#123;color:green&#125; &lt;/style&gt;  &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">    千峰教育/大前端私房菜/哔哩哔哩大学 视频学习进度日志：&lt;p&gt;&#123;https://www.bilibili.com/video/BV17z4y1D7Yj?p=55&amp;vd_source=d0d7af2eb94ad7906c677cb445ecf8f7&#125;&lt;/p&gt;</span><br><span class="line">    &lt;p&gt;</span><br><span class="line">    48集 2024.10.31.00.00  +1</span><br><span class="line">    49集 2024.11.01.13:52 </span><br><span class="line">    50集 2024.11.01.17:00</span><br><span class="line">    55集 2024.11.01.21.45  +5    </span><br><span class="line">    59集 2024.11.02.16.55</span><br><span class="line">    60集 2024.11.02.17.35  +4</span><br><span class="line">    61集 2024.11.03.00.00</span><br><span class="line">    64集 2024.11.03.17.26  +1</span><br><span class="line">    65集 2024.11.04.21.08  +0 </span><br><span class="line">    66集 2024.11.04.23.42  (18.55)</span><br><span class="line">    67集 2024.11.05.13.32  (03.31)            </span><br><span class="line">    </span><br><span class="line">    &lt;/p&gt;</span><br><span class="line"></span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line">&lt;!------------------------------------------------------------------------------------------------&gt;</span><br></pre></td></tr></table></figure>]]></content>
     
     
-    
-    <category term="全栈" scheme="https://github.ellisy.cn/categories/%E5%85%A8%E6%A0%88/"/>
-    
-    
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章测试6</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC6%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC6%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-    <summary type="html">测试文章</summary>
-    
-    
-    
-    <category term="艺术" scheme="https://github.ellisy.cn/categories/%E8%89%BA%E6%9C%AF/"/>
-    
-    
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文章测试7</title>
-    <link href="https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC7%E6%9C%9F/"/>
-    <id>https://github.ellisy.cn/2025/01/31/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0%E7%AC%AC7%E6%9C%9F/</id>
-    <published>2025-01-31T14:00:00.000Z</published>
-    <updated>2025-02-13T14:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-    <summary type="html">测试文章</summary>
+    <summary type="html">本篇为萌新准备的前端CSS学习笔记</summary>
     
     
     
     <category term="前端" scheme="https://github.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="测试" scheme="https://github.ellisy.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="css" scheme="https://github.ellisy.cn/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DeesKeep的安装教程及使用方法</title>
+    <link href="https://github.ellisy.cn/2025/02/11/7-deeskeep-AI/"/>
+    <id>https://github.ellisy.cn/2025/02/11/7-deeskeep-AI/</id>
+    <published>2025-02-11T04:41:14.561Z</published>
+    <updated>2025-02-19T07:53:16.052Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://github.ellisy.cn/categories/AI/"/>
+    
+    
+    <category term="deeskeep" scheme="https://github.ellisy.cn/tags/deeskeep/"/>
     
   </entry>
   
