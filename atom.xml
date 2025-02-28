@@ -6,7 +6,7 @@
   <link href="https://home.ellisy.cn/atom.xml" rel="self"/>
   
   <link href="https://home.ellisy.cn/"/>
-  <updated>2025-02-20T14:34:12.051Z</updated>
+  <updated>2025-02-20T14:26:21.661Z</updated>
   <id>https://home.ellisy.cn/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JS学习笔记</title>
+    <link href="https://home.ellisy.cn/2025/02/28/3-JS-%E5%89%8D%E7%AB%AF%20copy/"/>
+    <id>https://home.ellisy.cn/2025/02/28/3-JS-%E5%89%8D%E7%AB%AF%20copy/</id>
+    <published>2025-02-28T08:43:59.587Z</published>
+    <updated>2025-02-20T14:26:21.661Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    <summary type="html">本篇为萌新准备的前端JS学习笔记</summary>
+    
+    
+    
+    <category term="前端" scheme="https://home.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="JS" scheme="https://home.ellisy.cn/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站合集</title>
-    <link href="https://home.ellisy.cn/2025/02/19/%E5%85%B6%E4%BB%96/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/"/>
-    <id>https://home.ellisy.cn/2025/02/19/%E5%85%B6%E4%BB%96/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/</id>
+    <link href="https://home.ellisy.cn/2025/02/19/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/"/>
+    <id>https://home.ellisy.cn/2025/02/19/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96/</id>
     <published>2025-02-19T07:50:45.195Z</published>
-    <updated>2025-02-20T14:34:12.051Z</updated>
+    <updated>2025-02-28T08:50:56.946Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
@@ -33,6 +54,8 @@
     
     
     
+    <category term="其他" scheme="https://home.ellisy.cn/categories/%E5%85%B6%E4%BB%96/"/>
+    
     
     <category term="网页" scheme="https://home.ellisy.cn/tags/%E7%BD%91%E9%A1%B5/"/>
     
@@ -40,8 +63,8 @@
   
   <entry>
     <title>HTML学习笔记</title>
-    <link href="https://home.ellisy.cn/2025/02/19/%E5%89%8D%E7%AB%AF/1-HTML-%E5%89%8D%E7%AB%AF/"/>
-    <id>https://home.ellisy.cn/2025/02/19/%E5%89%8D%E7%AB%AF/1-HTML-%E5%89%8D%E7%AB%AF/</id>
+    <link href="https://home.ellisy.cn/2025/02/19/1-HTML-%E5%89%8D%E7%AB%AF/"/>
+    <id>https://home.ellisy.cn/2025/02/19/1-HTML-%E5%89%8D%E7%AB%AF/</id>
     <published>2025-02-19T05:00:00.000Z</published>
     <updated>2025-02-19T14:00:00.000Z</updated>
     
@@ -61,8 +84,8 @@
   
   <entry>
     <title>九依图库</title>
-    <link href="https://home.ellisy.cn/2025/02/12/%E7%BB%98%E7%94%BB/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/"/>
-    <id>https://home.ellisy.cn/2025/02/12/%E7%BB%98%E7%94%BB/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/</id>
+    <link href="https://home.ellisy.cn/2025/02/12/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/"/>
+    <id>https://home.ellisy.cn/2025/02/12/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB/</id>
     <published>2025-02-12T06:27:39.143Z</published>
     <updated>2025-02-19T07:53:56.830Z</updated>
     
@@ -85,8 +108,8 @@
   
   <entry>
     <title>java笔记</title>
-    <link href="https://home.ellisy.cn/2025/02/12/%E5%90%8E%E7%AB%AF/5-java-%E5%90%8E%E7%AB%AF/"/>
-    <id>https://home.ellisy.cn/2025/02/12/%E5%90%8E%E7%AB%AF/5-java-%E5%90%8E%E7%AB%AF/</id>
+    <link href="https://home.ellisy.cn/2025/02/12/5-java-%E5%90%8E%E7%AB%AF/"/>
+    <id>https://home.ellisy.cn/2025/02/12/5-java-%E5%90%8E%E7%AB%AF/</id>
     <published>2025-02-12T06:26:51.062Z</published>
     <updated>2025-02-19T07:54:21.543Z</updated>
     
@@ -109,12 +132,12 @@
   
   <entry>
     <title>PS修图合集教程</title>
-    <link href="https://home.ellisy.cn/2025/02/12/%E5%B9%B3%E9%9D%A2/4-ps-%E5%B9%B3%E9%9D%A2/"/>
-    <id>https://home.ellisy.cn/2025/02/12/%E5%B9%B3%E9%9D%A2/4-ps-%E5%B9%B3%E9%9D%A2/</id>
+    <link href="https://home.ellisy.cn/2025/02/12/4-ps-%E5%B9%B3%E9%9D%A2/"/>
+    <id>https://home.ellisy.cn/2025/02/12/4-ps-%E5%B9%B3%E9%9D%A2/</id>
     <published>2025-02-12T06:26:11.906Z</published>
-    <updated>2025-02-19T07:43:41.026Z</updated>
+    <updated>2025-02-28T08:43:41.231Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>ZZ</p>]]></content>
     
     
     <summary type="html">本篇为萌新准备的PS修图教程</summary>
@@ -129,30 +152,30 @@
   </entry>
   
   <entry>
-    <title>JS学习笔记</title>
-    <link href="https://home.ellisy.cn/2025/02/11/%E5%89%8D%E7%AB%AF/3-JS-%E5%89%8D%E7%AB%AF/"/>
-    <id>https://home.ellisy.cn/2025/02/11/%E5%89%8D%E7%AB%AF/3-JS-%E5%89%8D%E7%AB%AF/</id>
+    <title>AI学习笔记</title>
+    <link href="https://home.ellisy.cn/2025/02/11/7-Deepseek-AI/"/>
+    <id>https://home.ellisy.cn/2025/02/11/7-Deepseek-AI/</id>
     <published>2025-02-11T04:45:59.012Z</published>
-    <updated>2025-02-20T14:26:21.661Z</updated>
+    <updated>2025-02-28T08:51:03.957Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     
-    <summary type="html">本篇为萌新准备的前端JS学习笔记</summary>
+    <summary type="html">本篇为萌新准备的前端AI学习笔记</summary>
     
     
     
-    <category term="前端" scheme="https://home.ellisy.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="AI" scheme="https://home.ellisy.cn/categories/AI/"/>
     
     
-    <category term="JS" scheme="https://home.ellisy.cn/tags/JS/"/>
+    <category term="Deespseek" scheme="https://home.ellisy.cn/tags/Deespseek/"/>
     
   </entry>
   
   <entry>
     <title>CSS学习笔记</title>
-    <link href="https://home.ellisy.cn/2025/02/11/%E5%89%8D%E7%AB%AF/2-CSS-%E5%89%8D%E7%AB%AF/"/>
-    <id>https://home.ellisy.cn/2025/02/11/%E5%89%8D%E7%AB%AF/2-CSS-%E5%89%8D%E7%AB%AF/</id>
+    <link href="https://home.ellisy.cn/2025/02/11/2-CSS-%E5%89%8D%E7%AB%AF/"/>
+    <id>https://home.ellisy.cn/2025/02/11/2-CSS-%E5%89%8D%E7%AB%AF/</id>
     <published>2025-02-11T04:43:53.740Z</published>
     <updated>2025-02-20T14:27:23.696Z</updated>
     
@@ -167,30 +190,6 @@
     
     
     <category term="CSS" scheme="https://home.ellisy.cn/tags/CSS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DeesKeep的安装教程及使用方法</title>
-    <link href="https://home.ellisy.cn/2025/02/11/AI/7-deeskeep-AI/"/>
-    <id>https://home.ellisy.cn/2025/02/11/AI/7-deeskeep-AI/</id>
-    <published>2025-02-11T04:41:14.561Z</published>
-    <updated>2025-02-19T07:53:16.052Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="AI" scheme="https://home.ellisy.cn/categories/AI/"/>
-    
-    
-    <category term="deeskeep" scheme="https://home.ellisy.cn/tags/deeskeep/"/>
     
   </entry>
   
