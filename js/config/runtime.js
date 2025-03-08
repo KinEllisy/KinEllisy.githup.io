@@ -1,4 +1,3 @@
-
   function updateRuntime() {
     // 建站时间
     let create_time = Math.round(new Date('2025/02/02 00:00:00').getTime() / 1000);
