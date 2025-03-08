@@ -232,13 +232,6 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/tags/ps/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jiuyiks.cn/tags/JS/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,6 +253,13 @@
   </url>
   
   <url>
+    <loc>https://jiuyiks.cn/tags/ps/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jiuyiks.cn/tags/Deespseek/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -267,14 +267,14 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
+    <loc>https://jiuyiks.cn/tags/PS/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/tags/PS/</loc>
+    <loc>https://jiuyiks.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -290,13 +290,6 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/categories/%E5%B9%B3%E9%9D%A2/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jiuyiks.cn/categories/%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -305,6 +298,13 @@
   
   <url>
     <loc>https://jiuyiks.cn/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiuyiks.cn/categories/%E5%B9%B3%E9%9D%A2/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
