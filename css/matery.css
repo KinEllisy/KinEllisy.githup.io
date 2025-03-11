@@ -1,0 +1,16 @@
+/* 暗黑模式全局样式 */
+body.DarkMode {
+    background-color: #12121c !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* 调整图片亮度 */
+body.DarkMode img {
+    filter: brightness(0.7);
+}
+
+/* 代码块暗色背景 */
+body.DarkMode pre code {
+    background-color: #282c34;
+    color: #abb2bf;
+}
