@@ -1,0 +1,30 @@
+body.DarkMode {
+    /* 强制覆盖 !important 标识 */
+    background: var(--global-bg) !important;
+    color: var(--font-color) !important;
+}
+
+/* 修复导航栏下拉菜单 */
+body.DarkMode .navbar-dropdown {
+    background: var(--nav-bg) !important;
+    border: 1px solid var(--card-border) !important;
+}
+
+/* 适配分类云标签 */
+body.DarkMode .tag-cloud-list a {
+    background: #353535 !important;
+    border: 1px solid #4a4a4a !important;
+}
+
+/* Waline 评论插件暗色适配 */
+body.DarkMode .wl-panel {
+    --waline-bgcolor: var(--card-bg) !important;
+    --waline-color: var(--font-color) !important;
+    --waline-bgcolor-light: #353535 !important;
+}
+
+/* Gitalk 适配 */
+body.DarkMode .gt-container {
+    background: var(--card-bg) !important;
+    border-color: var(--card-border) !important;
+}
