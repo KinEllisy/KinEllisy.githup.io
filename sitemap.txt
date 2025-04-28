@@ -1,13 +1,12 @@
+https://jiuyiks.cn/about/
+https://jiuyiks.cn/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96.html
+https://jiuyiks.cn/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB.html
+https://jiuyiks.cn/5-java-%E5%90%8E%E7%AB%AF.html
 https://jiuyiks.cn/4-ps-%E5%B9%B3%E9%9D%A2.html
 https://jiuyiks.cn/3-JS-%E5%89%8D%E7%AB%AF%20copy.html
 https://jiuyiks.cn/2-CSS-%E5%89%8D%E7%AB%AF.html
-https://jiuyiks.cn/kj.html
-https://jiuyiks.cn/5-java-%E5%90%8E%E7%AB%AF.html
 https://jiuyiks.cn/7-Deepseek-AI.html
-https://jiuyiks.cn/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96.html
-https://jiuyiks.cn/6-%E5%9B%BE%E5%BA%93-%E7%BB%98%E7%94%BB.html
 https://jiuyiks.cn/tuku/
-https://jiuyiks.cn/about/
 https://jiuyiks.cn/1-HTML-%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80.html
 https://jiuyiks.cn/link1/
 https://jiuyiks.cn/categories/
@@ -30,7 +29,6 @@ https://jiuyiks.cn/tags/java/
 https://jiuyiks.cn/tags/Deespseek/
 https://jiuyiks.cn/tags/%E5%9B%BE%E5%BA%93/
 https://jiuyiks.cn/tags/%E7%BD%91%E9%A1%B5/
-https://jiuyiks.cn/tags/PS/
 https://jiuyiks.cn/categories/%E5%89%8D%E7%AB%AF/
 https://jiuyiks.cn/categories/%E5%B9%B3%E9%9D%A2/
 https://jiuyiks.cn/categories/%E5%90%8E%E7%AB%AF/
