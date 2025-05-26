@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jiuyiks.cn/HTML/Vue%E5%9F%BA%E7%A1%80.html</loc>
+    <lastmod>2025-05-24</lastmod>
+  </url>
+  <url>
     <loc>https://jiuyiks.cn/8-%E7%BD%91%E7%AB%99%E9%9B%86-%E5%85%B6%E4%BB%96.html</loc>
     <lastmod>2025-04-28</lastmod>
   </url>
@@ -13,16 +17,12 @@
     <lastmod>2025-04-28</lastmod>
   </url>
   <url>
-    <loc>https://jiuyiks.cn/4-ps-%E5%B9%B3%E9%9D%A2.html</loc>
+    <loc>https://jiuyiks.cn/HTML/JS%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2025-04-12</lastmod>
   </url>
   <url>
-    <loc>https://jiuyiks.cn/3-JS-%E5%89%8D%E7%AB%AF%20copy.html</loc>
-    <lastmod>2025-04-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jiuyiks.cn/2-CSS-%E5%89%8D%E7%AB%AF.html</loc>
-    <lastmod>2025-04-11</lastmod>
+    <loc>https://jiuyiks.cn/kj.html</loc>
+    <lastmod>2025-03-13</lastmod>
   </url>
   <url>
     <loc>https://jiuyiks.cn/7-Deepseek-AI.html</loc>
@@ -33,7 +33,7 @@
     <lastmod>2025-03-09</lastmod>
   </url>
   <url>
-    <loc>https://jiuyiks.cn/1-HTML-%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>https://jiuyiks.cn/HTML/Html_CSS%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2025-02-19</lastmod>
   </url>
 </urlset> 
