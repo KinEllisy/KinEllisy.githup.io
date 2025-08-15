@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/Html_CSS%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/JS%E5%9F%BA%E7%A1%80.html</loc>
+    <lastmod>2025-08-15</lastmod>
+  </url>
+  <url>
+    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/CSS%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2025-08-14</lastmod>
   </url>
   <url>
-    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/Html_HTML%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/HTML%E5%9F%BA%E7%A1%80.html</loc>
     <lastmod>2025-08-14</lastmod>
   </url>
   <url>
@@ -31,10 +35,6 @@
   <url>
     <loc>https://jiuyiks.cn/%E5%85%B6%E4%BB%96/8-%E7%BD%91%E7%AB%99%E5%90%88%E9%9B%86.html</loc>
     <lastmod>2025-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/JS%E5%9F%BA%E7%A1%80.html</loc>
-    <lastmod>2025-04-12</lastmod>
   </url>
   <url>
     <loc>https://jiuyiks.cn/tuku/index.html</loc>
