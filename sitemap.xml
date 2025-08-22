@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/HTML%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/CSS%E5%9F%BA%E7%A1%80.html</loc>
     
     <lastmod>2025-08-14</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/CSS%E5%9F%BA%E7%A1%80.html</loc>
+    <loc>https://jiuyiks.cn/%E5%89%8D%E7%AB%AF/HTML%E5%9F%BA%E7%A1%80.html</loc>
     
     <lastmod>2025-08-14</lastmod>
     
@@ -209,13 +209,6 @@
 
   
   <url>
-    <loc>https://jiuyiks.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
-    <lastmod>2025-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jiuyiks.cn/tags/Deespseek/</loc>
     <lastmod>2025-08-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,28 +216,7 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/tags/HTML5/</loc>
-    <lastmod>2025-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyiks.cn/tags/Vue/</loc>
-    <lastmod>2025-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyiks.cn/tags/JS/</loc>
-    <lastmod>2025-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiuyiks.cn/tags/java/</loc>
+    <loc>https://jiuyiks.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2025-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -258,7 +230,28 @@
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/tags/%E5%9B%BE%E5%BA%93/</loc>
+    <loc>https://jiuyiks.cn/tags/HTML5/</loc>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiuyiks.cn/tags/JS/</loc>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiuyiks.cn/tags/Vue/</loc>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiuyiks.cn/tags/java/</loc>
     <lastmod>2025-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -271,17 +264,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://jiuyiks.cn/tags/%E5%9B%BE%E5%BA%93/</loc>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://jiuyiks.cn/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://jiuyiks.cn/categories/AI/</loc>
     <lastmod>2025-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiuyiks.cn/categories/AI/</loc>
+    <loc>https://jiuyiks.cn/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2025-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
